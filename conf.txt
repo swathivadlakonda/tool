@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-this is conflic
-=======
+
+
 this is test for conf
->>>>>>> branch1
+
